@@ -1,4 +1,5 @@
 # Ignore the contents of the upload and thumbnail directories
+.idea
 source/*
 !source/Source.txt
 thumbs/*
